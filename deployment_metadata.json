@@ -1,0 +1,11 @@
+{
+  "remote_agent_runtime_id": "None",
+  "deployment_timestamp": "None",
+  "pending_operation": {
+    "operation_name": "projects/350971322475/locations/us-east1/reasoningEngines/6071042513207033856/operations/3888528081148706816",
+    "project": "qwiklabs-gcp-03-fd1a6864763d",
+    "location": "us-east1",
+    "deployment_target": "agent_runtime",
+    "started_at": "2026-10-13T06:14:35.764222+00:00"
+  }
+}
